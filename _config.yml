@@ -4,3 +4,5 @@ permalink: /blog/:year/:month/:day/:title
 
 plugins:
     - jekyll-seo-tag
+
+theme: jekyll-theme-cayman
