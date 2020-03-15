@@ -6,3 +6,6 @@ plugins:
     - jekyll-seo-tag
 
 theme: jekyll-theme-cayman
+
+# Jekyll SEO tag respects any of the following
+google_site_verification
