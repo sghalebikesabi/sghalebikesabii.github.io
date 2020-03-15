@@ -1,3 +1,6 @@
 name: Sahra Ghalebikesabi
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+plugins:
+    - jekyll-seo-tag
